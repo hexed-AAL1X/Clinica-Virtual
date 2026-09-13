@@ -3,27 +3,27 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <img alt="GitHub Repo contributors" src="https://img.shields.io/github/contributors/hexed-AAL1X/SympoTrack?style=for-the-badge">&nbsp;
-  <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/hexed-AAL1X/SympoTrack?style=for-the-badge">&nbsp;
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hexed-AAL1X/SympoTrack?style=for-the-badge">&nbsp;
-  <img alt="GitHub Repo issues" src="https://img.shields.io/github/issues/hexed-AAL1X/SympoTrack?style=for-the-badge">&nbsp;
+  <img alt="GitHub Repo contributors" src="https://img.shields.io/github/contributors/hexed-AAL1X/Clinica-Virtual?style=for-the-badge">&nbsp;
+  <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/hexed-AAL1X/Clinica-Virtual?style=for-the-badge">&nbsp;
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hexed-AAL1X/Clinica-Virtual?style=for-the-badge">&nbsp;
+  <img alt="GitHub Repo issues" src="https://img.shields.io/github/issues/hexed-AAL1X/Clinica-Virtual?style=for-the-badge">&nbsp;
 </p>
 
 <br>
 
 <div align="center">
-  <img src="docs/icono.png" alt="Clínica Virtual" width="200" />
+  <img src="frontend/public/logo.webp" alt="Clínica Virtual" width="320" />
   <h3 align="center">Clínica Virtual</h3>
   <p align="center">
     Orientación médica inicial guiada como en consultorio. El paciente cuenta el motivo, los síntomas y los antecedentes; el sistema sugiere hipótesis, cita o emergencias.
     <br>
-    <a href="https://github.com/hexed-AAL1X/SympoTrack"><strong>Explorar repositorio »</strong></a>
+    <a href="https://github.com/hexed-AAL1X/Clinica-Virtual"><strong>Explorar repositorio »</strong></a>
     <br><br>
-    <a href="https://github.com/hexed-AAL1X/SympoTrack">Ver código</a>
+    <a href="https://github.com/hexed-AAL1X/Clinica-Virtual">Ver código</a>
     ·
-    <a href="https://github.com/hexed-AAL1X/SympoTrack/issues/new?labels=bug">Reportar bug</a>
+    <a href="https://github.com/hexed-AAL1X/Clinica-Virtual/issues/new?labels=bug">Reportar bug</a>
     ·
-    <a href="https://github.com/hexed-AAL1X/SympoTrack/issues/new?labels=enhancement">Pedir feature</a>
+    <a href="https://github.com/hexed-AAL1X/Clinica-Virtual/issues/new?labels=enhancement">Pedir feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@
   <img src="docs/panel.png" alt="Consulta de Clínica Virtual en funcionamiento" width="700" />
 </p>
 
-**Clínica Virtual** (SympoTrack) es una primera orientación clínica: no es un formulario rígido ni un diagnóstico médico. El flujo pregunta como en consultorio.
+**Clínica Virtual** es una primera orientación clínica: no es un formulario rígido ni un diagnóstico médico. El flujo pregunta como en consultorio.
 
 - **Motivo principal**: piel, fiebre, respiración, digestión, orina, dolor, circulación o conciencia. Si no aparece, existe *Mi síntoma no está acá*.
 - **Síntomas dirigidos**: se marcan solo los que reconocen; nada es obligatorio.
@@ -113,8 +113,8 @@
 1) Clonar el repositorio
 
 ```bash
-git clone https://github.com/hexed-AAL1X/SympoTrack.git
-cd SympoTrack
+git clone https://github.com/hexed-AAL1X/Clinica-Virtual.git
+cd Clinica-Virtual
 ```
 
 2) Frontend (suficiente para correr y para Vercel)
