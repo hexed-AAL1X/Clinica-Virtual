@@ -1,0 +1,526 @@
+{
+  "itching": {
+    "descripcion": "Sensación incómoda en la piel que provoca el deseo de rascarse.",
+    "imagen": "https://assets.clevelandclinic.org/transform/3a8b023b-b29a-4e3e-9bb7-46bfd4d60382/itchingSkin-1199684950-770x533-1_jpg"
+  },
+  "skin_rash": {
+    "descripcion": "Área de piel enrojecida e inflamada, a menudo acompañada de picazón.",
+    "imagen": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/03/Contact-dermatitis-of-the-arm-body19.jpg?w=1155&h=1528"
+  },
+  "nodal_skin_eruptions": {
+    "descripcion": "Aparición de nódulos o protuberancias en la piel.",
+    "imagen": "https://www.researchgate.net/publication/359413819/figure/fig1/AS:1139363568205826@1648656851379/Facial-eruption-of-erythematous-acneiform-lesions.png"
+  },
+  "continuous_sneezing": {
+    "descripcion": "Acto de estornudar repetidamente sin parar.",
+    "imagen": "https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321305/man-about-to-sneeze.jpg"
+  },
+  "shivering": {
+    "descripcion": "Temblor incontrolable del cuerpo debido al frío o fiebre.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y4Fwa-fbyG5gz5aFfDw2rhc-DcAl_cL1Rg&s"
+  },
+  "chills": {
+    "descripcion": "Sensación de frío a menudo acompañada de temblores.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTncj123sEcw7QsF9bEfm5_A5_2ewsZ1Y9CKg&s"
+  },
+  "joint_pain": {
+    "descripcion": "Dolor en las articulaciones del cuerpo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:aANd9GcRyCVmXeIhgenHPHcLG0MNKp0CspC38vURcCQ&s"
+  },
+  "stomach_pain": {
+    "descripcion": "Dolor localizado en la zona abdominal.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrG_XCDwAZipKj70_wsf83txUjIBIy_soXBQ&s"
+  },
+  "acidity": {
+    "descripcion": "Sensación de ardor en el estómago o el pecho debido al exceso de ácido.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZ1-gVdNxCyCxJagjL86K9kpiu4xfDJ8ViA&s"
+  },
+  "ulcers_on_tongue": {
+    "descripcion": "Pequeñas llagas dolorosas en la lengua.",
+    "imagen": "https://www.shutterstock.com/image-photo/tongue-ulcers-adult-man-260nw-1078390793.jpg"
+  },
+  "muscle_wasting": {
+    "descripcion": "Pérdida de masa y fuerza muscular.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyJN8BWPLOy0CUqnyA9ruSU3iF2g68a7JGg&s"
+  },
+  "vomiting": {
+    "descripcion": "Expulsión forzada del contenido del estómago por la boca.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Symptoms-vomiting.jpg/220px-Symptoms-vomiting.jpg"
+  },
+  "burning_micturition": {
+    "descripcion": "Sensación de ardor al orinar.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsO9OxtN50-e6B5JD7rqxzy5zteTDe8LFQw&s"
+  },
+  "spotting_ urination": {
+    "descripcion": "Pequeñas cantidades de orina que se expulsan de manera intermitente.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BhtI-6uzQ1nfKH-AAcqdlkWPBsKLPb6X3g&s"
+  },
+  "fatigue": {
+    "descripcion": "Sensación extrema de cansancio o agotamiento.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0oQJ3LjDl_aty7JLhI_CfvKnkD-FY3kIhQ&s"
+  },
+  "weight_gain": {
+    "descripcion": "Incremento en el peso corporal.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuL1XOvcjXVnB5KtlpPH-wZOUcvYLNLysaNw&s"
+  },
+  "anxiety": {
+    "descripcion": "Sentimientos intensos de preocupación, miedo o nerviosismo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03diODOmO4GC7xvs9-uyr321kGIm0KFsb4w&s"
+  },
+  "cold_hands_and_feets": {
+    "descripcion": "Sensación de frío en las extremidades.",
+    "imagen": "https://media.istockphoto.com/id/1214505566/vector/cold-hand-and-foot-blood-circulation-illustration.jpg?s=612x612&w=0&k=20&c=BEy7lC4bTRcJItYt4zcgtXjeM8gmYYCwYU1N9zJ9M1U="
+  },
+  "mood_swings": {
+    "descripcion": "Alteraciones rápidas e impredecibles en el estado de ánimo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-odhXOIlg3n1FcODAm1yKS5IdlfkmtJnFPA&s"
+  },
+  "weight_loss": {
+    "descripcion": "Reducción del peso corporal.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_LWBaXqQazkQNEKi6CUNLpsfq3bGCatteA&s"
+  },
+  "restlessness": {
+    "descripcion": "Incapacidad para quedarse quieto o relajarse.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EfCdT14pABDo59vzzKcKVczonI-PXxlxdA&s"
+  },
+  "lethargy": {
+    "descripcion": "Sensación de pereza o falta de energía.",
+    "imagen": "https://www.health.com/thmb/pZLh_6V2uYKJPna9fRZ6ksYLe6M=/2082x0/filters:no_upscale():max_bytes(150000):strip_icc()/LethargyGettyImages-163844925-36c10474127840d79bfba075ac0d4fe7.jpg"
+  },
+  "patches_in_throat": {
+    "descripcion": "Áreas de decoloración o lesiones en la garganta.",
+    "imagen": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2023/10/strep-throat-1296x728-slide2.jpg"
+  },
+  "irregular_sugar_level": {
+    "descripcion": "Fluctuaciones anormales en los niveles de glucosa en sangre.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXb5vPa3Ya3QWhfVRoNhAfsrtBPzBzkNXFWg&s"
+  },
+  "cough": {
+    "descripcion": "Expulsión repentina y repetida de aire desde los pulmones.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7BzWDQPvr_SCA8zWaR8wiguiWTI8INvgAg&s"
+  },
+  "high_fever": {
+    "descripcion": "Elevación significativa de la temperatura corporal.",
+    "imagen": "https://assets.clevelandclinic.org/transform/6323bdcd-dcee-4a1d-b3ba-9200715d94c5/bodyHappenFever-1006577818-770x553_jpg"
+  },
+  "sunken_eyes": {
+    "descripcion": "Apariencia de ojos hundidos, a menudo por deshidratación.",
+    "imagen": "https://www.verywellhealth.com/thmb/qPdBm9M2HTos6BYT13wC9SPBN9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-527033884-10b05026e736424a9b8014422f6c6e12.jpg"
+  },
+  "breathlessness": {
+    "descripcion": "Sensación de falta de aire o dificultad para respirar.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIntUsbiz6HbD8gl3UBV7hISJR28YIhw8fOA&s"
+  },
+  "sweating": {
+    "descripcion": "Producción de sudor, generalmente como respuesta al calor o al ejercicio.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgr_8PSBHJdxAEN7ZoDeV3x1al7y0DyPChA&s"
+  },
+  "dehydration": {
+    "descripcion": "Pérdida excesiva de líquidos del cuerpo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyywGw4kgQ8EWKr3hUzCZRby20H_M7PUfyxg&s"
+  },
+  "indigestion": {
+    "descripcion": "Malestar estomacal después de comer, asociado con dificultad para digerir.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbKjLZ3yb9LJM2xsj2qSnXY3gYtXuqfOSYw&s"
+  },
+  "headache": {
+    "descripcion": "Dolor o malestar en la cabeza o el cuello superior.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9zVPDMwokaI2CLY5HqpasT5-iAPBRw6axg&s"
+  },
+  "yellowish_skin": {
+    "descripcion": "Color amarillento de la piel, a menudo relacionado con ictericia.",
+    "imagen": "https://assets.nhs.uk/nhsuk-cms/images/S_1117_jaundice-hand_C0016614.max-600x600.jpg"
+  },
+  "dark_urine": {
+    "descripcion": "Orina de color oscuro, a menudo indicativa de deshidratación o problemas hepáticos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlQRFy4Yu4BloONrwO4k7SUC4Cxwjy1Kb-A&s"
+  },
+  "nausea": {
+    "descripcion": "Sensación de malestar en el estómago con el deseo de vomitar.",
+    "imagen": "https://w7.pngwing.com/pngs/197/710/png-transparent-nausea-cartoon-people-patient-thumbnail.png"
+  },
+  "loss_of_appetite": {
+    "descripcion": "Disminución del deseo de comer.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUJUZG8ChvOhUESokV2XTLfd8-CGTvmVb5A&s"
+  },
+  "pain_behind_the_eyes": {
+    "descripcion": "Dolor o presión en la zona ocular.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9UPcTRdpw3y0Lnr7TdACcpITqSKtZ7bTpQ&s"
+  },
+  "back_pain": {
+    "descripcion": "Dolor en la zona posterior del torso.",
+    "imagen": "https://www.centracare.com/images/blog/GettyImages-143174625-backpain.jpg"
+  },
+  "constipation": {
+    "descripcion": "Dificultad para evacuar las heces.",
+    "imagen": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/constipation/woman-stomache-diagram-hero.jpg?h=500&iar=0&mh=500&mw=1300&w=1297&hash=2365EF022582A66F3310D16DA99F5EAA"
+  },
+  "abdominal_pain": {
+    "descripcion": "Dolor en cualquier área del abdomen.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzg-FQgUNHuUp0bsP6I4xcO-e0o5eyl8lX0A&s"
+  },
+  "diarrhoea": {
+    "descripcion": "Heces líquidas y frecuentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RFLee_NT8sJ6gWgumwNcXLZJXkKp7KsTCA&s"
+  },
+  "mild_fever": {
+    "descripcion": "Elevación moderada de la temperatura corporal.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPDipaFbYzAp8GQtkvqqHEOWheQ3IJBE5uA&s"
+  },
+  "yellow_urine": {
+    "descripcion": "Orina de color amarillo, generalmente normal a menos que sea muy intensa.",
+    "imagen": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/313779_2200-732x549.jpg"
+  },
+  "yellowing_of_eyes": {
+    "descripcion": "Coloración amarilla de la parte blanca de los ojos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmFsOL-Jr5Hx4n59Ib3YLr0SXgbEBWzvo1w&s"
+  },
+  "acute_liver_failure": {
+    "descripcion": "Pérdida rápida de la función hepática.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPMW7Ay1VNpDk4UcEB4mT6aCuOEsb7i182Q&s"
+  },
+  "fluid_overload": {
+    "descripcion": "Acumulación excesiva de líquido en el cuerpo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBSZII3dtY0F0LbbE51A4jKJGeIX5NcMbjA&s"
+  },
+  "swelling_of_stomach": {
+    "descripcion": "Abdomen hinchado, a menudo por acumulación de líquidos o gases.",
+    "imagen": "https://www.belmarrahealth.com/wp-content/uploads/2017/11/what-causes-abdominal-swelling.jpg"
+  },
+  "swelled_lymph_nodes": {
+    "descripcion": "Inflamación de los ganglios linfáticos.",
+    "imagen": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/01/Cervical_lymphadenopathy_right_neck_1296x728_slide-1024x575.jpg"
+  },
+  "malaise": {
+    "descripcion": "Sensación general de incomodidad o indisposición.",
+    "imagen": "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327062/a-woman-lying-in-bed-and-feeling-unwell-because-of-malaise.jpg"
+  },
+  "blurred_and_distorted_vision": {
+    "descripcion": "Visión borrosa y distorsionada que dificulta ver detalles finos, afectando la capacidad para leer, conducir, o realizar tareas cotidianas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2xD_8C5cqK7QgIEKTk-kb0WtoqXRuyWKOA&s"
+  },
+  "phlegm": {
+    "descripcion": "Producción excesiva de moco espeso en las vías respiratorias, que puede causar congestión, tos y dificultad para respirar.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHjrQR0Q7OkjGTClXXQTQ10d6lMSUGaaaVQ&s"
+  },
+  "throat_irritation": {
+    "descripcion": "Irritación en la garganta, a menudo acompañada de dolor, sequedad o una sensación de ardor, dificultando tragar y hablar.",
+    "imagen": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/Image-Galleries/Sore-Throat/Sore_throat_Acute%20tonsilitis.jpg?w=1155"
+  },
+  "redness_of_eyes": {
+    "descripcion": "Enrojecimiento de los ojos, a menudo causado por irritación, infección, alergias o fatiga ocular, pudiendo acompañarse de picazón o dolor.",
+    "imagen": "https://www.researchgate.net/publication/323807864/figure/fig1/AS:1086459163480107@1636043458465/Bilateral-inflammatory-thyroid-associated-orbitopathy-with-edema-and-redness-of-eyes-and.jpg"
+  },
+  "sinus_pressure": {
+    "descripcion": "Presión en los senos paranasales, que puede causar dolor en el rostro, congestión nasal y dolor de cabeza.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOcDoyHQ0lnjDuCSYzl2rtt9Wphs3_nGF9A&s"
+  },
+  "runny_nose": {
+    "descripcion": "Secreción nasal, caracterizada por el goteo constante de mucosidad por la nariz, a menudo debido a resfriados, alergias o infecciones.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71LxQZkyzr3sNLRXzv3csQ-pUBvcDGV6IYA&s"
+  },
+  "congestion": {
+    "descripcion": "Congestión nasal o de las vías respiratorias, causando dificultad para respirar, especialmente por la nariz, debido a la acumulación de moco.",
+    "imagen": "https://staticnew-prod.topdoctors.mx/files/Image/large/c86f59b81077f65b479ab7050dd493d9.jpg"
+  },
+  "chest_pain": {
+    "descripcion": "Dolor en el pecho, que puede variar desde una molestia leve hasta una sensación aguda y punzante, a menudo relacionado con problemas cardíacos, respiratorios o musculares.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG_UwTzITaIqtI8ydrZJnCZWpZkjaKpOc8Q&s"
+  },
+  "weakness_in_limbs": {
+    "descripcion": "Debilidad en las extremidades, que puede dificultar el movimiento y reducir la fuerza en brazos y piernas, afectando las actividades diarias.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFSroNoF5eXwsPsSR3CCd42kng5VwSNxbfA&s"
+  },
+  "fast_heart_rate": {
+    "descripcion": "Frecuencia cardíaca rápida, también conocida como taquicardia, donde el corazón late a un ritmo acelerado, lo que puede causar mareos, dificultad para respirar y ansiedad.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVA_w5PCJriEAOk2kwnKaeMtQABpGaJYJocA&s"
+  },
+  "pain_during_bowel_movements": {
+    "descripcion": "Dolor durante los movimientos intestinales, que puede ser un signo de hemorroides, fisuras anales o problemas gastrointestinales.",
+    "imagen": "https://relatyv.com/wp-content/uploads/2023/08/Painful-Bowel-Movements.jpg"
+  },
+  "pain_in_anal_region": {
+    "descripcion": "Dolor en la región anal, que puede deberse a hemorroides, fisuras anales o infecciones.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ellesul8gq0EX0ir-3s28dAcjepiofk0sw&s"
+  },
+  "bloody_stool": {
+    "descripcion": "Presencia de sangre en las heces, que puede indicar problemas digestivos serios como hemorroides, fisuras anales o enfermedades inflamatorias del intestino.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP2sK50iMt9-W0w85k9n13RXseGCD23ZGlw&s"
+  },
+  "irritation_in_anus": {
+    "descripcion": "Irritación en el ano, que puede causar picazón, ardor o dolor, frecuentemente asociado a hemorroides o infecciones.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbEK9FQy7ta-C2PlIGMTSgk7qbnbV5-j1CQ&s"
+  },
+  "neck_pain": {
+    "descripcion": "Dolor de cuello, que puede ser causado por tensión muscular, lesiones, mala postura o enfermedades degenerativas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0imefHoiMMyYWPQsD67gD364vHa4PYIcKDA&s"
+  },
+  "dizziness": {
+    "descripcion": "Mareos, que pueden ser una sensación de aturdimiento, desorientación o inestabilidad, a menudo causada por problemas del oído interno, presión arterial baja o deshidratación.",
+    "imagen": "https://cornerstonephysio.com/wp-content/uploads/2016/10/understanding-dizziness-e1595085004948.jpg"
+  },
+  "cramps": {
+    "descripcion": "Calambres, que son contracciones dolorosas e involuntarias de los músculos, a menudo en las piernas, causados por deshidratación, fatiga o deficiencias de minerales.",
+    "imagen": "https://s16736.pcdn.co/wp-content/uploads/sites/270/2019/11/SpaceCoastNovember-768x512.jpg.optimal.jpg"
+  },
+  "bruising": {
+    "descripcion": "Moretones, áreas de piel descolorida debido a la ruptura de pequeños vasos sanguíneos bajo la piel, comúnmente causados por golpes o lesiones.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKr-J73AYp_i4HgdYJdrsYLNfHgej0LkITiQ&s"
+  },
+  "obesity": {
+    "descripcion": "Obesidad, una condición caracterizada por un exceso de grasa corporal que aumenta el riesgo de problemas de salud como enfermedades cardíacas, diabetes y presión arterial alta.",
+    "imagen": "https://cdn.britannica.com/36/189336-050-8D1DAA2C/Obesity-body-fat-accumulation-conditions.jpg"
+  },
+  "swollen_legs": {
+    "descripcion": "Piernas hinchadas, que pueden deberse a retención de líquidos, insuficiencia venosa, problemas cardíacos o renales.",
+    "imagen": "https://legsmatter.org/wp-content/uploads/2019/03/Chronic_oedema_legs_matter-1.jpg"
+  },
+  "swollen_blood_vessels": {
+    "descripcion": "Vasos sanguíneos hinchados, también conocidos como varices, que pueden causar dolor, pesadez y malestar en las piernas.",
+    "imagen": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/01/varicose-veins-ulceration-of-the-skin-body6-1024x575.jpg?w=1155&h=1528"
+  },
+  "puffy_face_and_eyes": {
+    "descripcion": "Rostro y ojos hinchados, que pueden ser causados por retención de líquidos, alergias, falta de sueño o problemas de salud subyacentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Urtokz-S0W5qUXFtWQY_h7WqahckaD4GZQ&s"
+  },
+  "enlarged_thyroid": {
+    "descripcion": "Tiroides agrandada, también conocida como bocio, se refiere al aumento de tamaño de la glándula tiroides. Puede causar una protuberancia visible en el cuello, dificultades para tragar o respirar, y puede estar asociado con desequilibrios hormonales.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPnDVa8OhzShOdriKbqi61ecAXTo4ar3uzg&s"
+  },
+  "brittle_nails": {
+    "descripcion": "Uñas quebradizas, que se rompen o se parten con facilidad. Esto puede ser un signo de deficiencias nutricionales, deshidratación, o problemas de salud subyacentes como hipotiroidismo o infecciones por hongos.",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-brittle-nails-damage-to-the-nail-after-royalty-free-image-1616084359.?crop=0.88847xw:1xh;center,top&resize=1200:*"
+  },
+  "swollen_extremeties": {
+    "descripcion": "Extremidades hinchadas, una condición donde los brazos o las piernas se inflaman debido a la retención de líquidos, lesiones, infecciones o problemas circulatorios como insuficiencia venosa o linfedema.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoUusCEeHd5DPnVFL5ajgKwkbXd7El14SUw&s"
+  },
+  "excessive_hunger": {
+    "descripcion": "Hambre excesiva, también conocida como polifagia, es una sensación persistente de necesidad de comer más de lo habitual. Puede estar relacionada con condiciones médicas como diabetes, hipertiroidismo, o desequilibrios hormonales.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GQo21wF-rYgDjifNzJ2cOiMW8iEtwdqmUA&s"
+  },
+  "extra_marital_contacts": {
+    "descripcion": "Contactos extramatrimoniales, que se refieren a relaciones románticas o sexuales fuera del matrimonio. Esto puede tener implicaciones emocionales, sociales y de salud significativas, incluyendo riesgos de enfermedades de transmisión sexual.",
+    "imagen": "https://static.toiimg.com/thumb/msid-47418028,imgsize-50532,width-400,resizemode-4/47418028.jpg"
+  },
+  "drying_and_tingling_lips": {
+    "descripcion": "Labios secos y hormigueo, una sensación incómoda que puede ser causada por deshidratación, deficiencias nutricionales, reacciones alérgicas o condiciones como la neuropatía.",
+    "imagen": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjA0NjI5MTcwNTk1MDQ2NjMy/why-are-my-lips-tingling.jpg"
+  },
+  "slurred_speech": {
+    "descripcion": "Habla arrastrada, una dificultad para articular palabras claramente. Puede ser un síntoma de problemas neurológicos como un accidente cerebrovascular, esclerosis múltiple, o intoxicación.",
+    "imagen": "https://c8.alamy.com/comp/W63EGB/illustration-of-a-man-saying-something-in-slurred-speech-W63EGB.jpg"
+  },
+  "knee_pain": {
+    "descripcion": "Dolor de rodilla, que puede ser causado por lesiones, artritis, sobreuso, o problemas mecánicos en la articulación. A menudo afecta la movilidad y puede ser crónico o agudo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkxcsGs784f0ZeoteF3wCbyBMWu5unOFA2w&s"
+  },
+  "hip_joint_pain": {
+    "descripcion": "Dolor en la articulación de la cadera, que puede resultar de artritis, lesiones, bursitis, o problemas musculares. A menudo se manifiesta como dolor profundo en la ingle o el muslo.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxWT2Mq6ztREeV1OVxW9HQU9dh4grEVOeG7Q&s"
+  },
+  "muscle_weakness": {
+    "descripcion": "Debilidad muscular, una reducción en la fuerza de los músculos que puede ser causada por condiciones neurológicas, enfermedades metabólicas, infecciones o desuso prolongado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHX9oSzxY4yGS0V8m7GSoqm-bYRmvQprP1nw&s"
+  },
+  "stiff_neck": {
+    "descripcion": "Cuello rígido, una dificultad para mover el cuello debido a la tensión muscular, lesiones, artritis o condiciones más serias como meningitis. Puede estar acompañado de dolor y limitación de movimiento.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLc_btYN_3h2O_9cEIi_xdnw-iixGKOI2qOg&s"
+  },
+  "swelling_joints": {
+    "descripcion": "Hinchazón en las articulaciones, una inflamación que puede ser resultado de artritis, lesiones, infecciones, o enfermedades autoinmunes. Suele ir acompañada de dolor y rigidez.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKlv4lG_j5lTHjbCm0vVcC9Ym9z-pJGJbfw&s"
+  },
+  "movement_stiffness": {
+    "descripcion": "Rigidez en el movimiento, una sensación de dificultad o resistencia al mover las articulaciones o músculos, comúnmente causada por artritis, lesiones, o enfermedades neuromusculares.",
+    "imagen": "https://assets-global.website-files.com/60d3395d60e9503a507bae32/60ffa47387a2e66a47329797_Muscle%20Stiffness.png"
+  },
+  "spinning_movements": {
+    "descripcion": "Movimientos de giro, una sensación de que el entorno está girando o moviéndose, lo que puede ser un síntoma de vértigo, problemas del oído interno, o trastornos neurológicos.",
+    "imagen": "https://cdn11.bigcommerce.com/s-yn8q9n4bvw/product_images/uploaded_images/2/2017/04/sp_1296x864_jumps.jpg"
+  },
+  "loss_of_balance": {
+    "descripcion": "Pérdida de equilibrio, una dificultad para mantener la estabilidad, a menudo causada por problemas del oído interno, neurológicos, o musculares. Puede aumentar el riesgo de caídas.",
+    "imagen": "https://www.denochearing.com/wp-content/uploads/2023/02/Untitled-design-4.jpg"
+  },
+  "unsteadiness": {
+    "descripcion": "Inestabilidad, una sensación de falta de seguridad al caminar o moverse, que puede ser un síntoma de problemas neurológicos, musculares o del oído interno.",
+    "imagen": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2595064.jpg"
+  },
+  "weakness_of_one_body_side": {
+    "descripcion": "Debilidad en un lado del cuerpo, conocida como hemiparesia, puede ser un síntoma de un accidente cerebrovascular, lesiones cerebrales o esclerosis múltiple.",
+    "imagen": "https://www.verywellhealth.com/thmb/h-bGvVfB_VWhsy47Dj5bmaihSKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-hemiparesis-3146197_final-40b2f7e4f17f4fd6b4cd5a2768655f02.jpg"
+  },
+  "loss_of_smell": {
+    "descripcion": "Pérdida del sentido del olfato, también conocida como anosmia, puede ser causada por infecciones respiratorias, lesiones en la cabeza, o condiciones neurodegenerativas como el Parkinson.",
+    "imagen": "https://buzzrx.s3.amazonaws.com/2d819535-f470-4905-b78e-50bfbd4d333e/6MedicationsThatCanCauseLossofSmell.png"
+  },
+  "bladder_discomfort": {
+    "descripcion": "Molestia en la vejiga, una sensación de dolor, presión o urgencia urinaria que puede ser causada por infecciones, cistitis intersticial, o problemas de la próstata.",
+    "imagen": "https://domf5oio6qrcr.cloudfront.net/medialibrary/5920/577af078-4345-44c3-8017-5e1db179aeed.jpg"
+  },
+  "foul_smell_of_urine": {
+    "descripcion": "Olor fétido en la orina, puede ser un signo de infección urinaria, deshidratación, o ciertos alimentos y medicamentos. Es importante consultar a un médico si persiste.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSick9N5SgDSqXS9hC7noWg-NchLyxCtTn73Q&s"
+  },
+  "continuous_feel_of_urine": {
+    "descripcion": "Sensación continua de orinar, conocida como urgencia urinaria, puede ser causada por infecciones, inflamación de la vejiga, o condiciones como la vejiga hiperactiva.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqS8Qg11MPip1P5PgoWnY3n1n6rmNHZl2Lw&s"
+  },
+  "passage_of_gases": {
+    "descripcion": "Paso de gases, una liberación de aire del sistema digestivo a través del recto, comúnmente conocida como flatulencia. Puede ser un signo de indigestión, intolerancias alimentarias, o problemas digestivos.",
+    "imagen": "https://www.shutterstock.com/image-vector/flatulence-passing-gas-digestive-system-600w-1107902441.jpg"
+  },
+  "internal_itching": {
+    "descripcion": "Picazón interna, una sensación de picor profundo en la piel que puede ser causada por reacciones alérgicas, problemas hepáticos, o enfermedades sistémicas.",
+    "imagen": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/03/contact-dermatitis-in-abdomen-from-metal-belt-buckle-body7.jpg?w=1155&h=1528"
+  },
+  "toxic_look_(typhos)": {
+    "descripcion": "Apariencia tóxica (tifoidea), una manifestación grave de la fiebre tifoidea que incluye síntomas como fiebre alta, confusión, debilidad extrema, y erupciones cutáneas. Requiere atención médica urgente.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Epidemic_typhus_Burundi.jpg"
+  },
+  "depression": {
+    "descripcion": "Depresión, un trastorno del estado de ánimo que causa una sensación persistente de tristeza y pérdida de interés. Puede afectar el funcionamiento diario y la salud física.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4M1HkmITrjhu21sEd70iy_HCqOTOlORAdCg&s"
+  },
+  "irritability": {
+    "descripcion": "Irritabilidad, una tendencia a frustrarse o enojarse fácilmente. Puede ser un síntoma de estrés, ansiedad, trastornos del estado de ánimo, o problemas de salud subyacentes.",
+    "imagen": "https://images.ctfassets.net/ut7rzv8yehpf/n9E8o74KNZh2GjL9GxpX5/a0e740aded04f844897b4054c8fbef6b/woman-in-white-shirt-showing-frustration-3807738.jpg?w=1440&h=960&fl=progressive&q=50&fm=jpg"
+  },
+  "muscle_pain": {
+    "descripcion": "Dolor muscular, una molestia o dolor en los músculos que puede ser causada por sobreuso, tensión, lesiones o enfermedades como la fibromialgia o infecciones virales.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjaginw-9RvwAWJgBzOGSoxQcuts4leVl-fw&s"
+  },
+  "altered_sensorium": {
+    "descripcion": "Sensorio alterado, una alteración en el estado de conciencia que puede incluir confusión, desorientación o pérdida de la capacidad de pensar con claridad. Puede ser causado por infecciones, intoxicaciones o trastornos neurológicos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZrV8yWAP-6QN9afTJijS0ZFi27AV8nbcrSA&s"
+  },
+  "red_spots_over_body": {
+    "descripcion": "Manchas rojas en el cuerpo, que pueden ser una erupción cutánea causada por infecciones, alergias, o enfermedades sistémicas como la fiebre escarlata o el sarampión.",
+    "imagen": "https://www.verywellhealth.com/thmb/zRMwF2K1LwSCQU3te5xnYPycZpQ=/750x498/filters:no_upscale():max_bytes(150000):strip_icc()/PityriasisRosea-56a245395f9b58b7d0c878ce1-631d1c1cc54341729585a85c7f3f1636.jpg"
+  },
+  "belly_pain": {
+    "descripcion": "Dolor abdominal, una molestia o dolor en el área del estómago que puede ser causado por una variedad de problemas digestivos, infecciones, o condiciones como la apendicitis o el síndrome del intestino irritable.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmisG6mTHY_oJa2MgUa95Q1TenNbexk35iIg&s"
+  },
+  "abnormal_menstruation": {
+    "descripcion": "Menstruación anormal, incluye irregularidades en el ciclo menstrual como períodos muy intensos, prolongados, dolorosos, o la ausencia de menstruación. Puede ser causado por desequilibrios hormonales, estrés, o problemas de salud reproductiva.",
+    "imagen": "https://warsan.com.pk/wp-content/uploads/2024/05/types-of-abnormal-menstruation-7.webp"
+  },
+  "dischromic _patches": {
+    "descripcion": "Manchas discrómicas, áreas de la piel con cambios en la pigmentación que pueden ser más claras o más oscuras que la piel circundante. Pueden ser causadas por infecciones, enfermedades autoinmunes, o exposiciones a sustancias químicas.",
+    "imagen": "https://manualofmedicine.com/wp-content/uploads/2023/09/dyschromic-patches-plaques-and-poikiloderma-on-upper-back-excerpt.jpg"
+  },
+  "watering_from_eyes": {
+    "descripcion": "Lagrimeo, una producción excesiva de lágrimas que puede ser causada por irritaciones, alergias, infecciones o condiciones del ojo seco.",
+    "imagen": "https://www.centreforsight.net/wp-content/uploads/2023/03/watery-eyes.webp"
+  },
+  "increased_appetite": {
+    "descripcion": "Aumento del apetito, también conocido como hiperfagia, una necesidad constante de comer más de lo habitual que puede ser un síntoma de desequilibrios hormonales, trastornos del estado de ánimo, o problemas metabólicos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7laj0QlSd09IE3SbZH4OF7UzqgcA7U1gVNQ&s"
+  },
+  "polyuria": {
+    "descripcion": "Producción de una cantidad excesiva de orina, a menudo asociado con la diabetes mellitus y otros trastornos endocrinos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3cFM1JMh7K8_F0s98Uzwc3-D1WlAPB9VSg&s"
+  },
+  "family_history": {
+    "descripcion": "Presencia de enfermedades o condiciones en miembros de la familia, lo que puede indicar una predisposición genética a ciertos trastornos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS75awK2mZzF3Rpyz02_Zn7JvOkbr2byBjow&s"
+  },
+  "mucoid_sputum": {
+    "descripcion": "Esputo viscoso y pegajoso, a menudo producido en infecciones respiratorias o enfermedades pulmonares crónicas.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sputum.JPG"
+  },
+  "rusty_sputum": {
+    "descripcion": "Esputo de color óxido, típicamente asociado con neumonía lobar y otras infecciones pulmonares graves.",
+    "imagen": "https://image.slidesharecdn.com/approachtocough-170131012943/85/Approach-to-cough-24-320.jpg"
+  },
+  "lack_of_concentration": {
+    "descripcion": "Dificultad para mantener la atención o concentrarse en tareas, que puede ser un síntoma de varias condiciones, incluyendo TDAH, ansiedad, depresión y fatiga.",
+    "imagen": "https://e5hougg55fx.exactdn.com/wp-content/uploads/2020/07/lack-of-concentration-feature-image.jpg"
+  },
+  "visual_disturbances": {
+    "descripcion": "Alteraciones en la visión, como visión borrosa, destellos de luz, manchas flotantes, que pueden indicar problemas oculares o neurológicos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0SWJYAPlRo9ARIZhF7UBJ4MRA8nb4SN1Fw&s"
+  },
+  "receiving_blood_transfusion": {
+    "descripcion": "Recepción de una transfusión de sangre, que puede estar asociada con riesgos de infecciones o reacciones transfusionales.",
+    "imagen": "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327513/close-up-of-an-arm-having-a-blood-transfusion.jpg"
+  },
+  "receiving_unsterile_injections": {
+    "descripcion": "Inyecciones administradas con equipo no estéril, que pueden aumentar el riesgo de infecciones y transmisión de enfermedades.",
+    "imagen": "https://dialogo.upr.edu/wp-content/uploads/2015/07/vacunacio%CC%81n.jpg"
+  },
+  "coma": {
+    "descripcion": "Estado de inconsciencia prolongada, donde una persona no puede ser despertada y no responde a estímulos, indicando daño cerebral grave o trastornos metabólicos.",
+    "imagen": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2020/10/que_ocurre_en_el_cuerpo_cuando_se_esta_en_coma_y_pasan_los_anos_1.jpg"
+  },
+  "stomach_bleeding": {
+    "descripcion": "Hemorragia en el estómago, que puede manifestarse como sangre en el vómito o heces negras y alquitranadas, a menudo causado por úlceras o lesiones gástricas.",
+    "imagen": "https://allieddigestivehealth.com/wp-content/uploads/2023/03/Distressed-woman-at-home-holding-her-stomach-and-suffering-from-internal-bleeding-stomach-symptoms.jpg"
+  },
+  "distention_of_abdomen": {
+    "descripcion": "Aumento del tamaño del abdomen debido a la acumulación de gas, líquidos o masas, causando una apariencia hinchada.",
+    "imagen": "https://thumbs.dreamstime.com/b/prominent-abdominal-distension-southeast-asian-myanmar-man-left-lateral-view-distended-abdomen-may-be-due-to-ascites-183847466.jpg"
+  },
+  "history_of_alcohol_consumption": {
+    "descripcion": "Consumo previo o actual de alcohol, que puede predisponer a varias enfermedades hepáticas, cardiovasculares y neurológicas.",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20150412091433_1200.jpg"
+  },
+  "blood_in_sputum": {
+    "descripcion": "Presencia de sangre en el esputo, lo que puede ser un signo de infecciones respiratorias graves, cáncer de pulmón o enfermedades pulmonares crónicas.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raetchon_%C3%A5_sonk.jpg/228px-Raetchon_%C3%A5_sonk.jpg"
+  },
+  "prominent_veins_on_calf": {
+    "descripcion": "Venas visibles y abultadas en la pantorrilla, que pueden ser un signo de venas varicosas o insuficiencia venosa crónica.",
+    "imagen": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/01/varicose-veins-ulceration-of-the-skin-body6-1024x575.jpg"
+  },
+  "palpitations": {
+    "descripcion": "Sensación de latidos cardíacos rápidos, fuertes o irregulares, que puede ser causado por estrés, ejercicio, consumo de estimulantes o problemas cardíacos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUk3GmwUJW1mDRwOI_7KfbbZddR3eeEYo-xg&s"
+  },
+  "painful_walking": {
+    "descripcion": "Dolor o molestia al caminar, que puede ser causado por lesiones, problemas musculoesqueléticos, o condiciones neurológicas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXdXQzcX0jqhRtG9bJaiX-xrANQp_zzJYog&s"
+  },
+  "pus_filled_pimples": {
+    "descripcion": "Granos o espinillas llenas de pus, típicamente asociadas con el acné severo o infecciones bacterianas de la piel.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ob30FEmhECLXWlGcAVP7LTsN_690nnlgMQ&s"
+  },
+  "blackheads": {
+    "descripcion": "Pequeños puntos negros en la piel, especialmente en la cara, causados por la obstrucción de los folículos pilosos.",
+    "imagen": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/03/11071-infected_blackhead-648x364-body.jpg?w=1155&h=764"
+  },
+  "scurring": {
+    "descripcion": "Proceso de formación de cicatrices en la piel después de una lesión o inflamación.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUrwYMI5uA8kO0s4KYJzza5MzRw908ZNu7Q&s"
+  },
+  "skin_peeling": {
+    "descripcion": "Desprendimiento de la capa superficial de la piel, a menudo como resultado de quemaduras, irritación o ciertas condiciones dermatológicas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEOXzwXUTHv4W0C7PsKyskmTqpXj34vBskw&s"
+  },
+  "silver_like_dusting": {
+    "descripcion": "Presencia de una capa o escamas plateadas en la piel, típicamente asociada con condiciones como la psoriasis.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Argyria_2b.jpg"
+  },
+  "small_dents_in_nails": {
+    "descripcion": "Pequeñas hendiduras o depresiones en la superficie de las uñas, que pueden ser un signo de problemas dermatológicos como la psoriasis.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmx8TTRmsfVEaLiYdUspSxqi_DzAhxuu4UQ&s"
+  },
+  "inflammatory_nails": {
+    "descripcion": "Inflamación de los tejidos alrededor de las uñas, a menudo debido a infecciones o traumatismos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2lxVwDqD_YWiCZFIDeETtOacYXCta5Q0dg&s"
+  },
+  "blister": {
+    "descripcion": "Pequeña burbuja en la piel llena de líquido claro, a menudo causada por fricción, quemaduras o infecciones.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blister.jpg/320px-Blister.jpg"
+  },
+  "red_sore_around_nose": {
+    "descripcion": "Llaga roja alrededor de la nariz, que puede ser causada por infecciones, irritaciones o condiciones como el herpes labial.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRSfJx1ebnjnlkpM2_LQt6Q0yjZeMEMGl6A&s"
+  },
+  "yellow_crust_ooze": {
+    "descripcion": "Secreción de líquido amarillo que se seca formando una costra, comúnmente asociada con infecciones bacterianas de la piel como el impétigo.",
+    "imagen": "https://cdn.shopify.com/s/files/1/2467/3849/files/tipo-de-exudado-seroso_240x240.jpg?v=1638840460"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clinica-virtual",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix frontend/SymptoTrack -- --host 127.0.0.1 --port 5173",
+    "build": "npm run build --prefix frontend/SymptoTrack",
+    "preview": "npm run preview --prefix frontend/SymptoTrack",
+    "export-engine": ".venv/bin/python -m backend.export_engine",
+    "api": ".venv/bin/uvicorn backend.main:app --host 127.0.0.1 --port 8000"
+  }
+}

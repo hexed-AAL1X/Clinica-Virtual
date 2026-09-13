@@ -1,0 +1,170 @@
+{
+  "Hepatitis A": {
+    "descripcion": "Infección viral altamente contagiosa que afecta el hígado y causa inflamación. Se transmite principalmente a través del consumo de alimentos o agua contaminados y el contacto cercano con una persona infectada. La vacunación es la mejor manera de prevenir esta enfermedad.",
+    "imagen": "/enfermedades/hepatitis-a.jpg"
+  },
+  "Hepatitis B": {
+    "descripcion": "Infección hepática grave causada por el virus de la hepatitis B (VHB). Esta enfermedad puede ser aguda o crónica y se transmite a través del contacto con sangre, semen u otros fluidos corporales de una persona infectada. La vacunación es crucial para la prevención.",
+    "imagen": "/enfermedades/hepatitis-b.jpg"
+  },
+  "Hepatitis C": {
+    "descripcion": "Infección viral que puede causar inflamación crónica del hígado. Se transmite principalmente a través del contacto con sangre infectada. La enfermedad puede progresar a cirrosis y cáncer de hígado si no se trata adecuadamente.",
+    "imagen": "/enfermedades/hepatitis-c.jpg"
+  },
+  "Hepatitis D": {
+    "descripcion": "Infección hepática que solo ocurre en presencia del virus de la hepatitis B. Esta co-infección puede causar una enfermedad hepática más severa y complicaciones graves. La vacunación contra la hepatitis B previene la hepatitis D.",
+    "imagen": "/enfermedades/hepatitis-d.jpg"
+  },
+  "Hepatitis E": {
+    "descripcion": "Infección viral que se transmite principalmente a través del agua contaminada. Es más común en regiones con saneamiento deficiente. La enfermedad generalmente es autolimitada, pero puede ser grave en mujeres embarazadas.",
+    "imagen": "/enfermedades/hepatitis-e.jpg"
+  },
+  "Alcoholic hepatitis": {
+    "descripcion": "Inflamación del hígado causada por el consumo excesivo y prolongado de alcohol. Puede llevar a cicatrización y daño hepático irreversible, y en casos severos, a insuficiencia hepática. La abstinencia del alcohol es esencial para el tratamiento.",
+    "imagen": "/enfermedades/alcoholic-hepatitis.jpg"
+  },
+  "Tuberculosis": {
+    "descripcion": "Enfermedad infecciosa causada por la bacteria Mycobacterium tuberculosis. Principalmente afecta los pulmones, pero también puede afectar otras partes del cuerpo. La transmisión ocurre a través del aire cuando una persona infectada tose o estornuda.",
+    "imagen": "/enfermedades/tuberculosis.jpg"
+  },
+  "Common Cold": {
+    "descripcion": "Infección viral de las vías respiratorias superiores, comúnmente causada por rinovirus. Es altamente contagiosa y se propaga a través de gotitas en el aire y contacto directo con superficies contaminadas.",
+    "imagen": "/enfermedades/common-cold.jpg"
+  },
+  "Pneumonia": {
+    "descripcion": "Infección que inflama los sacos de aire en uno o ambos pulmones, que pueden llenarse de líquido o pus. Causada por bacterias, virus u hongos, la neumonía puede variar de leve a potencialmente mortal.",
+    "imagen": "/enfermedades/pneumonia.jpg"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "descripcion": "Hinchazón e inflamación de las venas del recto y del ano. Pueden ser internas o externas y son causadas por esfuerzo durante las evacuaciones intestinales, embarazo, envejecimiento y otros factores.",
+    "imagen": "/enfermedades/dimorphic-hemmorhoids-piles.jpg"
+  },
+  "Heart attack": {
+    "descripcion": "Ocurre cuando el flujo de sangre al corazón se bloquea, generalmente por la acumulación de grasa, colesterol y otras sustancias que forman una placa en las arterias coronarias. El bloqueo puede dañar o destruir parte del músculo cardíaco.",
+    "imagen": "/enfermedades/heart-attack.jpg"
+  },
+  "Varicose veins": {
+    "descripcion": "Venas hinchadas y retorcidas que se ven justo debajo de la superficie de la piel. Son más comunes en las piernas y pueden causar dolor, hinchazón y sensación de pesadez.",
+    "imagen": "/enfermedades/varicose-veins.jpg"
+  },
+  "Acne": {
+    "descripcion": "Trastorno de la piel que ocurre cuando los folículos pilosos se obstruyen con aceite y células muertas de la piel. Puede causar puntos negros, espinillas o quistes, y afecta principalmente a adolescentes, pero también puede persistir en la edad adulta.",
+    "imagen": "/enfermedades/acne.jpg"
+  },
+  "AIDS": {
+    "descripcion": "Síndrome de inmunodeficiencia adquirida, una enfermedad causada por el virus de la inmunodeficiencia humana (VIH). Ataca el sistema inmunológico, debilitándolo y dejando al cuerpo vulnerable a muchas infecciones y enfermedades. No tiene cura, pero el tratamiento puede controlar la enfermedad.",
+    "imagen": "/enfermedades/aids.jpg"
+  },
+  "Dengue fever": {
+    "descripcion": "Enfermedad viral transmitida por mosquitos infectados. Causa fiebre alta, dolor de cabeza intenso, dolor muscular y articular, erupciones cutáneas y sangrado. En casos graves, puede provocar hemorragias graves y ser potencialmente mortal.",
+    "imagen": "/enfermedades/dengue-fever.jpg"
+  },
+  "Diabetes": {
+    "descripcion": "Enfermedad crónica que afecta la forma en que el cuerpo maneja el azúcar en la sangre. Puede causar complicaciones graves, como enfermedades cardíacas, accidentes cerebrovasculares, ceguera, insuficiencia renal y amputaciones. La diabetes tipo 2 es prevenible en gran medida con cambios en el estilo de vida.",
+    "imagen": "/enfermedades/diabetes.jpg"
+  },
+  "Gastroenteritis": {
+    "descripcion": "Inflamación del estómago y los intestinos que causa diarrea, vómitos y calambres abdominales. Es causada por infecciones virales, bacterianas o parasitarias, y es comúnmente conocida como gripe estomacal. La gastroenteritis puede llevar a la deshidratación, especialmente en niños y ancianos.",
+    "imagen": "/enfermedades/gastroenteritis.jpg"
+  },
+  "Bronchial Asthma": {
+    "descripcion": "Enfermedad crónica que inflama y estrecha las vías respiratorias, causando episodios recurrentes de sibilancias, falta de aliento, opresión en el pecho y tos. Los desencadenantes del asma pueden incluir alérgenos, infecciones respiratorias, ejercicio y estrés.",
+    "imagen": "/enfermedades/bronchial-asthma.jpg"
+  },
+  "Hypertension": {
+    "descripcion": "Condición crónica en la que la presión arterial es consistentemente más alta de lo normal. La hipertensión aumenta el riesgo de enfermedades cardíacas, accidentes cerebrovasculares y otros problemas graves de salud. Se conoce como el asesino silencioso porque a menudo no presenta síntomas evidentes.",
+    "imagen": "/enfermedades/hypertension.jpg"
+  },
+  "Migraine": {
+    "descripcion": "Trastorno neurológico que causa dolores de cabeza intensos y otros síntomas como náuseas, vómitos y sensibilidad a la luz y el sonido. Las migrañas pueden durar de horas a días y pueden ser debilitantes. Las causas exactas no se conocen, pero los factores desencadenantes pueden incluir cambios hormonales, alimentos, estrés y patrones de sueño irregulares.",
+    "imagen": "/enfermedades/migraine.jpg"
+  },
+  "Cervical spondylosis": {
+    "descripcion": "Desgaste de los huesos y cartílagos en el cuello (columna cervical) debido al envejecimiento. Esto puede causar dolor de cuello, rigidez y, en algunos casos, compresión de las raíces nerviosas. La espondilosis cervical es común en personas mayores y es una causa frecuente de dolor crónico en el cuello.",
+    "imagen": "/enfermedades/cervical-spondylosis.jpg"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "descripcion": "Pérdida de función muscular en parte del cuerpo debido a una hemorragia cerebral. Una hemorragia cerebral ocurre cuando un vaso sanguíneo en el cerebro se rompe y sangra, dañando las células cerebrales y causando parálisis en la parte del cuerpo controlada por el área afectada del cerebro.",
+    "imagen": "/enfermedades/paralysis-brain-hemorrhage.jpg"
+  },
+  "Jaundice": {
+    "descripcion": "Condición que causa coloración amarillenta de la piel y los ojos debido a un exceso de bilirrubina en la sangre. La ictericia puede ser un signo de problemas hepáticos, obstrucción del conducto biliar, anemia hemolítica u otras afecciones médicas.",
+    "imagen": "/enfermedades/jaundice.jpg"
+  },
+  "Malaria": {
+    "descripcion": "Enfermedad infecciosa transmitida por mosquitos Anopheles infectados que causa fiebre alta, escalofríos, sudoración y otros síntomas. La malaria es causada por parásitos Plasmodium y es prevalente en regiones tropicales y subtropicales.",
+    "imagen": "/enfermedades/malaria.jpg"
+  },
+  "Chicken pox": {
+    "descripcion": "Enfermedad viral altamente contagiosa que causa una erupción cutánea con ampollas. Es causada por el virus varicela-zóster y es común en niños. La enfermedad suele ser leve, pero puede ser grave en adultos y personas con sistemas inmunitarios debilitados.",
+    "imagen": "/enfermedades/chicken-pox.jpg"
+  },
+  "Dengue": {
+    "descripcion": "Enfermedad viral transmitida por mosquitos Aedes infectados que causa fiebre alta, erupciones y dolor muscular y articular intenso. El dengue es prevalente en regiones tropicales y subtropicales y puede causar complicaciones graves como el dengue grave o hemorrágico.",
+    "imagen": "/enfermedades/dengue.jpg"
+  },
+  "Typhoid": {
+    "descripcion": "Enfermedad bacteriana causada por Salmonella typhi, transmitida por alimentos y agua contaminados. Los síntomas incluyen fiebre alta, dolor abdominal, debilidad y erupciones. La fiebre tifoidea puede ser mortal si no se trata adecuadamente con antibióticos.",
+    "imagen": "/enfermedades/typhoid.jpg"
+  },
+  "Fungal infection": {
+    "descripcion": "Infección causada por hongos que puede afectar la piel, las uñas o los pulmones. Las infecciones fúngicas comunes incluyen el pie de atleta, la candidiasis y la tiña. Los síntomas varían según la parte del cuerpo afectada.",
+    "imagen": "/enfermedades/fungal-infection.jpg"
+  },
+  "Allergy": {
+    "descripcion": "Respuesta inmune exagerada a una sustancia extraña, como el polen, el pelo de animales, los alimentos o las picaduras de insectos. Los síntomas pueden incluir estornudos, picazón, erupciones cutáneas y, en casos graves, anafilaxia.",
+    "imagen": "/enfermedades/allergy.jpg"
+  },
+  "GERD": {
+    "descripcion": "La enfermedad por reflujo gastroesofágico (GERD, por sus siglas en inglés) es una afección crónica en la que el ácido del estómago fluye hacia el esófago, causando síntomas como acidez, regurgitación y dolor en el pecho.",
+    "imagen": "/enfermedades/gerd.jpg"
+  },
+  "Chronic cholestasis": {
+    "descripcion": "Condición en la cual el flujo de bilis desde el hígado se ve reducido o bloqueado, lo que lleva a la acumulación de bilis en el hígado. Esto puede causar ictericia, picazón y otros problemas hepáticos.",
+    "imagen": "/enfermedades/chronic-cholestasis.jpg"
+  },
+  "Drug Reaction": {
+    "descripcion": "Respuesta adversa del cuerpo a un medicamento, que puede variar desde una leve erupción cutánea hasta reacciones graves como el síndrome de Stevens-Johnson. Es importante identificar y discontinuar el uso del medicamento causante.",
+    "imagen": "/enfermedades/drug-reaction.jpg"
+  },
+  "Hypothyroidism": {
+    "descripcion": "Condición en la cual la glándula tiroides no produce suficientes hormonas tiroideas, lo que lleva a síntomas como fatiga, aumento de peso, piel seca y sensibilidad al frío.",
+    "imagen": "/enfermedades/hypothyroidism.jpg"
+  },
+  "Hyperthyroidism": {
+    "descripcion": "Condición en la que la glándula tiroides produce demasiadas hormonas tiroideas, causando síntomas como pérdida de peso, nerviosismo, irritabilidad y temblores.",
+    "imagen": "/enfermedades/hyperthyroidism.jpg"
+  },
+  "Hypoglycemia": {
+    "descripcion": "Condición en la que el nivel de azúcar en la sangre es anormalmente bajo. Los síntomas incluyen sudoración, temblores, confusión y, en casos severos, pérdida de conciencia.",
+    "imagen": "/enfermedades/hypoglycemia.jpg"
+  },
+  "Arthritis": {
+    "descripcion": "Inflamación de una o más articulaciones, que causa dolor y rigidez. Existen diferentes tipos, como la osteoartritis y la artritis reumatoide, cada una con causas y tratamientos distintos.",
+    "imagen": "/enfermedades/arthritis.jpg"
+  },
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "descripcion": "Trastorno del oído interno que causa episodios breves de vértigo. Generalmente es provocado por cambios en la posición de la cabeza y puede ser tratado con maniobras específicas.",
+    "imagen": "/enfermedades/vertigo-paroymsal-positional-vertigo.jpg"
+  },
+  "Urinary tract infection": {
+    "descripcion": "Infección en cualquier parte del sistema urinario, incluidos los riñones, los uréteres, la vejiga y la uretra. Los síntomas incluyen una necesidad urgente de orinar, dolor al orinar y orina turbia o con sangre.",
+    "imagen": "/enfermedades/urinary-tract-infection.jpg"
+  },
+  "Psoriasis": {
+    "descripcion": "Enfermedad autoinmune crónica que causa la rápida acumulación de células de la piel, formando escamas y manchas rojas que pican y a veces duelen. Los desencadenantes pueden incluir infecciones, lesiones en la piel y estrés.",
+    "imagen": "/enfermedades/psoriasis.jpg"
+  },
+  "Impetigo": {
+    "descripcion": "Infección bacteriana contagiosa de la piel, común en niños. Se caracteriza por llagas rojas en la cara, especialmente alrededor de la nariz y la boca, que se rompen y forman costras color miel.",
+    "imagen": "/enfermedades/impetigo.jpg"
+  },
+  "Osteoarthristis": {
+    "descripcion": "Enfermedad degenerativa de las articulaciones que causa dolor, rigidez y pérdida de movilidad. Es más común en personas mayores y afecta principalmente las rodillas, las caderas y las manos.",
+    "imagen": "/enfermedades/osteoarthristis.jpg"
+  },
+  "Peptic ulcer diseae": {
+    "descripcion": "Condición en la que se desarrollan llagas abiertas en el revestimiento del estómago, el intestino delgado o el esófago. Los síntomas incluyen dolor abdominal, náuseas y, en casos graves, sangrado interno.",
+    "imagen": "/enfermedades/peptic-ulcer-diseae.jpg"
+  }
+}
