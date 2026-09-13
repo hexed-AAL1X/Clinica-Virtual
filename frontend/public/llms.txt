@@ -1,0 +1,12 @@
+# Clínica Virtual
+
+> Orientación médica inicial como en consultorio. El paciente cuenta el motivo, los síntomas y los antecedentes; recibe hipótesis y el siguiente paso: cita o emergencias. No reemplaza una consulta presencial ni una urgencia.
+
+## Sitio
+
+- [Inicio](https://clinicavirtual-nine.vercel.app/): presentación del servicio
+- [Consulta](https://clinicavirtual-nine.vercel.app/consulta): orientación clínica guiada
+
+## Código
+
+- [Repositorio](https://github.com/hexed-AAL1X/Clinica-Virtual)

@@ -23,13 +23,13 @@ const NavBar = () => {
         </nav>
 
         <div className="header-actions">
-          <span className="header-phone">
+          <a className="header-phone" href="tel:+5117143030">
             <PhoneIcon />
             (01) 714 3030
-          </span>
-          <span className="icon-btn" aria-label="Mi cuenta">
+          </a>
+          <button type="button" className="icon-btn" aria-label="Mi cuenta">
             <UserIcon />
-          </span>
+          </button>
           <Link className="btn btn-primary" to="/consulta">
             Agendar cita
           </Link>

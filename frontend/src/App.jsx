@@ -13,7 +13,7 @@ export const App = () => {
     <>
       <SmoothScroll />
       <NavBar />
-      <div className="content">
+      <main className="content">
         <div key={location.pathname} className="page-enter">
           <Routes location={location}>
             <Route path="/" element={<Home />} />
@@ -21,7 +21,7 @@ export const App = () => {
             <Route path="/*" element={<Navigate to="/" />} />
           </Routes>
         </div>
-      </div>
+      </main>
       <FooterComponent />
     </>
   );

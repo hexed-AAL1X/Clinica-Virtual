@@ -1,7 +1,7 @@
 :root {
   --cyan: #05c6fb;
-  --blue: #078ffa;
-  --blue-dark: #0068d4;
+  --blue: #0068d4;
+  --blue-dark: #0056a8;
   --blue-soft: #e7f7ff;
   --ink: #03050f;
   --text: #13172c;
@@ -56,7 +56,7 @@ body {
   margin: 0;
   color: var(--text);
   background: var(--bg);
-  font-family: "General Sans", "Segoe UI", sans-serif;
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -115,6 +115,7 @@ button,
 
 img {
   max-width: 100%;
+  height: auto;
 }
 
 .container {
@@ -150,8 +151,11 @@ img {
 
 .brand-logo {
   display: block;
-  height: 52px;
-  width: auto;
+  width: 156px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 1;
+  object-fit: contain;
 }
 
 .brand-mark,
@@ -467,6 +471,19 @@ img {
   margin-bottom: 16px;
 }
 
+.doctor-card__title {
+  margin: 0 0 8px;
+  font-size: 1.5rem;
+  letter-spacing: -0.03em;
+}
+
+.doctor-card__lead,
+.doctor-card__step {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
 .progress {
   height: 6px;
   background: #eef0f5;
@@ -596,7 +613,7 @@ img {
 
 .result-card__media {
   overflow: hidden;
-  height: 220px;
+  aspect-ratio: 16 / 9;
   margin: -24px -24px 16px;
   border-radius: 22px 22px 0 0;
   background: var(--blue-soft);
@@ -655,7 +672,8 @@ img {
   }
 
   .brand-logo {
-    height: 42px;
+    width: 126px;
+    height: auto;
   }
 
   .menu-toggle {

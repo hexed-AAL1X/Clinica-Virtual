@@ -41,6 +41,10 @@ const DiseaseImage = ({ src }) => {
         className={`result-card__photo ${showPhoto ? "" : "is-fallback"}`}
         src={showPhoto ? src : "/icono.webp"}
         alt=""
+        width={640}
+        height={360}
+        loading="lazy"
+        decoding="async"
         onError={() => setBroken(true)}
       />
     </div>
@@ -130,16 +134,16 @@ const Consulta = () => {
     <section className="consult">
       <div className="container consult-shell">
         <aside className="doctor-card">
-          <Mark className="doctor-avatar" />
-          <h2 style={{ margin: "0 0 8px", letterSpacing: "-0.03em" }}>Orientación clínica</h2>
-          <p style={{ margin: 0, color: "var(--muted)", lineHeight: 1.55 }}>
+          <Mark className="doctor-avatar" fetchPriority="high" />
+          <h1 className="doctor-card__title">Orientación clínica</h1>
+          <p className="doctor-card__lead">
             Le pregunto como en consultorio. Nada es obligatorio. Si hay un
             signo de alarma, le indico que acuda a emergencias.
           </p>
           <div className="progress" aria-hidden="true">
             <span style={{ width: `${progress}%` }} />
           </div>
-          <small style={{ color: "var(--muted)" }}>
+          <small className="doctor-card__step">
             Paso {step + 1} de {STEPS.length}: {STEPS[step].label}
           </small>
         </aside>
@@ -303,7 +307,7 @@ const Consulta = () => {
                 </p>
               )}
               {selected.length > 0 && (
-                <p style={{ color: "var(--muted)" }}>
+                <p className="empty-hint">
                   Seleccionados: {selected.map((id) => catalog.get(id)?.name || id).join(", ")}
                 </p>
               )}
